@@ -1,6 +1,10 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules. 
+##### Why Vite 
+1. Faster build time: Vitejs uses esbuild, which is a blazing fast compiler that can build projects in a fraction of time that it takes other build tools.
+2. Hot reload: Vitejs has hot reload, which means that your code will be updated in real time as you make changes, so you can see the results of your changes immediately.
+3. Small bundle size: Vitejs bundles are typically much smaller than bundles created by other build tools , which can improve performance and reduce bandwidth usage.
 
 Currently, two official plugins are available:
 
